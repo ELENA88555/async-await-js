@@ -156,5 +156,5 @@ async function wait() {
 // async function wait() {
 //   await new Promise((resolve, reject) => setTimeout(reject, 1000, `Ooops`));
 
-//   return 10;
+//   return 10
 // }
